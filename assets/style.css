@@ -1,0 +1,29 @@
+body{
+    overflow-x: hidden;
+}
+.image{
+    width: 100%;
+    padding-top: 30px;
+}
+.img-section{
+    width: 40%;
+    
+    
+}
+.nav-item{
+    display: flex;
+}
+/* .section-introduction{
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+} */
+
+/* @media(max-width:500px){
+    .section-introduction{
+        display: grid;
+        flex-wrap: wrap;
+        gap: 5px;
+       
+    } 
+} */
